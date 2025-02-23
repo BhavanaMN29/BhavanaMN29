@@ -23,7 +23,7 @@
 - **✅ Deep Dive into Python Libraries with ML Applications** - *Aqmenz Automation Pvt. Ltd.*  
 - **✅ Artificial Intelligence** - *Ethnotech Academic Solutions*
 - **✅ Java and C++** - *Udemy*
-- **✅ Javascript with HTML% and CSS3** - *Udemy*
+- **✅ Javascript with HTML5 and CSS3** - *Udemy*
 
 
 
